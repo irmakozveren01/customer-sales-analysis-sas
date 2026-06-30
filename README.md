@@ -71,7 +71,5 @@ The SAS program generates a PDF report containing:
 
 **Irmak Özveren**  
 **Halit Kaan Kesgin**
-
 **Tatyana Li**
-
 **Margherita Fagan**
