@@ -30,12 +30,7 @@ The workflow includes:
 
 - Dataset sorting using a reusable SAS macro.
 - Data merging across multiple tables.
-- Creation of derived variables:
-  - **AGE_CAT**
-  - **FLAG01**
-  - **FLAG02**
-  - **COST**
-  - **BUDGET_CAT**
+- Creation of derived variables
 - Currency formatting for expenditure variables.
 - Preparation of customer-level summary tables.
 
