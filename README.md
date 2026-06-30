@@ -75,3 +75,6 @@ The SAS program generates a PDF report containing:
 ## Author
 
 **Irmak Özveren**  
+**Halit Kaan Kesgin**
+**Tatyana Li**
+**Margherita Fagan**
